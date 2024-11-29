@@ -4,7 +4,7 @@ const Home = ({ photo }) => {
   return (
     <section
       id="home"
-      className="h-screen flex items-center justify-center bg-blue-200"
+      className="h-screen flex items-center justify-center bg-gray-200"
     >
       <div className="text-center flex flex-col md:space-x-12">
         <img
