@@ -4,10 +4,12 @@ const Navbar = ({ logo }) => {
   const [open, setOpen] = useState(false);
 
   return (
-    <nav className="bg-gray-400 p-2 sticky top-0 z-10 shadow-md">
+    <nav
+      className="bg-gray-400 p-2 sticky top-0 z-10 shadow-md"
+      role="navigation"
+      aria-label="Main Navigation"
+    >
       <div className="container mx-auto flex justify-between items-center">
-        <img src={logo} alt="Logo" className="h-16 w-16" />
-
         <img src={logo} alt="Logo" className="h-16 w-16" />
 
         <button
