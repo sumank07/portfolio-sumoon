@@ -8,6 +8,8 @@ const Navbar = ({ logo }) => {
       <div className="container mx-auto flex justify-between items-center">
         <img src={logo} alt="Logo" className="h-16 w-16" />
 
+        <img src={logo} alt="Logo" className="h-16 w-16" />
+
         <button
           onClick={() => setOpen(!open)}
           className="sm:hidden text-gray-800 focus:outline-none text-2xl"
