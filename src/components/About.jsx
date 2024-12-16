@@ -2,7 +2,7 @@ import React from "react";
 import AboutImage from "../assets/About-Image.jpg";
 const About = () => {
   return (
-    <section id="about" className="py-20 bg-blue-400">
+    <section id="about" className="py-20 bg-white-300">
       <div className="container mx-auto text-center">
         <h2 className="text-4xl font-bold text-center mb-12">About Me</h2>
 
@@ -15,13 +15,10 @@ const About = () => {
           <div className="flex-1">
             <p className="text-lg text-center mb-8">
               <h3>
-              I am a passionate full-stack developer focused on building modern
-              and responsive web applications. With a solid foundation in
-              frontend technologies like React, HTML, and CSS, along with
-              backend expertise, I strive to create seamless, efficient user
-              experiences. I leverage Git for version control to ensure
-              collaboration and maintain clean, organized code throughout
-              development.
+              I am a passionate full-stack developer dedicated to creating
+              modern, responsive web applications. With a strong foundation in
+              both frontend and backend technologies, I strive to deliver
+              seamless and efficient user experiences.
               </h3>
             </p>
           </div>
