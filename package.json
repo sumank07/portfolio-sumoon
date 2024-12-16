@@ -1,6 +1,6 @@
 {
-  "name": "PORTFOLIO-S",
-  "homepage": "https://sumank07.github.io/PORTFOLIO-S/",
+  "name": "portfolio",
+  "homepage": "https://sumank07.github.io/portfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
