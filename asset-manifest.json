@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sumank07/portfolio-sumoon.git/static/css/main.6d67543b.css",
-    "main.js": "/sumank07/portfolio-sumoon.git/static/js/main.694c452a.js",
-    "static/media/About-Image.jpg": "/sumank07/portfolio-sumoon.git/static/media/About-Image.95ba5f3ad295ac89389a.jpg",
-    "static/media/photo.jpg": "/sumank07/portfolio-sumoon.git/static/media/photo.0df5506f2aae7a3d5ebe.jpg",
-    "static/media/logo.png": "/sumank07/portfolio-sumoon.git/static/media/logo.1453c860b41900d4f12b.png",
-    "index.html": "/sumank07/portfolio-sumoon.git/index.html",
-    "main.6d67543b.css.map": "/sumank07/portfolio-sumoon.git/static/css/main.6d67543b.css.map",
-    "main.694c452a.js.map": "/sumank07/portfolio-sumoon.git/static/js/main.694c452a.js.map"
+    "main.css": "/sumank07/portfolio-sumoon/static/css/main.6d67543b.css",
+    "main.js": "/sumank07/portfolio-sumoon/static/js/main.89148f3b.js",
+    "static/media/About-Image.jpg": "/sumank07/portfolio-sumoon/static/media/About-Image.95ba5f3ad295ac89389a.jpg",
+    "static/media/photo.jpg": "/sumank07/portfolio-sumoon/static/media/photo.0df5506f2aae7a3d5ebe.jpg",
+    "static/media/logo.png": "/sumank07/portfolio-sumoon/static/media/logo.1453c860b41900d4f12b.png",
+    "index.html": "/sumank07/portfolio-sumoon/index.html",
+    "main.6d67543b.css.map": "/sumank07/portfolio-sumoon/static/css/main.6d67543b.css.map",
+    "main.89148f3b.js.map": "/sumank07/portfolio-sumoon/static/js/main.89148f3b.js.map"
   },
   "entrypoints": [
     "static/css/main.6d67543b.css",
-    "static/js/main.694c452a.js"
+    "static/js/main.89148f3b.js"
   ]
 }
